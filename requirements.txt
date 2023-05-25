@@ -1,0 +1,4 @@
+tqdm==4.65.0
+tensorflow==2.12.0
+pillow==9.5.0
+nltk==3.8.1
